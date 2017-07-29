@@ -3,12 +3,12 @@
 Author: sirjofri <https://github.com/sirjofri/>
 License: beerware <http://en.wikipedia.org/wiki/Beerware>
 
-INTRODUCTION *commentout*
+INTRODUCTION                                    *commentout*
 
 This script provides some small function for commenting out code blocks. You
 can use the default mappings or adjust them.
 
-USAGE AND MAPPINGS *commentout*
+USAGE AND MAPPINGS                              *commentout-usage*
 
 Visual select some code and use one of the following mappings:
 
@@ -20,7 +20,7 @@ il                      Asks for a character sequence. This sequence will be
 rl                      Asks for a character sequence. This sequence will be
                         deleted if it exists. ("Remove Leading ...")
 
-ABOUT *commentout*
+ABOUT                                           *commentout-about*
 
 This software will be hosted on GitHub:
 
